@@ -5,6 +5,10 @@
 
 .hero {
     background-color: burlywood;
+    background: url("../img/paisaje.jpg");
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
 }
 
 .prueba {
